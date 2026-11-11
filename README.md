@@ -35,7 +35,7 @@ const yan = {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,html,css,vite&theme=dark" alt="Frontend" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,supabase,postgres,prisma,kotlin&theme=dark" alt="Backend & data" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,supabase,postgres,prisma,redis,kotlin&theme=dark" alt="Backend & data" /><br/>
   <img src="https://skillicons.dev/icons?i=vercel,git,github,figma,vscode&theme=dark" alt="Tools" />
 </p>
 
@@ -55,6 +55,14 @@ const yan = {
 ### 🚀 Featured projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🪟 DashApp — team workspace in liquid glass</h3>
+      Full-stack workspace for small teams: Kanban with drag &amp; drop, calendar, projects with burn-up charts, insights, time tracking &amp; timesheet reports, roles and permissions. Realtime sync over WebSockets, ⌘K command palette, keyboard shortcuts, a morphing "island" focus timer, light/dark themes and a responsive glass UI.<br/><br/>
+      <code>React 19</code> <code>Vite</code> <code>TypeScript</code> <code>NestJS</code> <code>PostgreSQL (Neon)</code> <code>TypeORM</code> <code>Socket.IO</code> <code>Redis</code> <code>Fly.io</code><br/><br/>
+      <a href="https://dashapp.fly.dev"><b>Live demo</b></a> · <a href="https://github.com/ykessel/dash">Code</a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>📈 Prism</h4>
